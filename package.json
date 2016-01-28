@@ -1,6 +1,6 @@
 {
     "name": "igniteui",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "The complete HTML & Javascript toolkit to build modern browser experiences on any device - desktop, tablet or phone.",
     "main": "index.js",
     "scripts": {
