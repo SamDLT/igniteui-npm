@@ -4,23 +4,23 @@ var zlib = require("zlib");
 var fs = require("fs");
 var cdn = [
     {
-        url: "http://cdn-na.infragistics.com/igniteui/2015.2/latest/css/themes/infragistics/infragistics.theme.css",
+        url: "http://cdn-na.infragistics.com/igniteui/latest/css/themes/infragistics/infragistics.theme.css",
         filename: "infragistics.theme.css"
     },
     {
-        url: "http://cdn-na.infragistics.com/igniteui/2015.2/latest/css/structure/infragistics.css",
+        url: "http://cdn-na.infragistics.com/igniteui/latest/css/structure/infragistics.css",
         filename: "infragistics.css"
     },
     {
-        url: "http://cdn-na.infragistics.com/igniteui/2015.2/latest/js/infragistics.core.js",
+        url: "http://cdn-na.infragistics.com/igniteui/latest/js/infragistics.core.js",
         filename: "infragistics.core.js"
     },
     {
-        url: "http://cdn-na.infragistics.com/igniteui/2015.2/latest/js/infragistics.dv.js",
+        url: "http://cdn-na.infragistics.com/igniteui/latest/js/infragistics.dv.js",
         filename: "infragistics.dv.js"
     },
     {
-        url: "http://cdn-na.infragistics.com/igniteui/2015.2/latest/js/infragistics.lob.js",
+        url: "http://cdn-na.infragistics.com/igniteui/latest/js/infragistics.lob.js",
         filename: "infragistics.lob.js"
     }
 ];
